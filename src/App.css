@@ -1,0 +1,15 @@
+Form{
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+input{
+  margin: 5px;
+}
+
+button{
+  margin: 10px 100px;
+  padding: 3px;
+  background-color:beige;
+  border-color: bisque;
+}
